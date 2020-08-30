@@ -1,2 +1,2 @@
 # nand2tetris
-Assembler and VMTranslator have been built for a small 16-bit computer
+Assembler and VM Translator have been developed for a small 16-bit computer.Assembly language mainly consists three category of instructions A-type(address),C-type(compute), L-type(label).Assembler converts them into a 16-bit machine code. The VM abstraction of this computer has five memory segments and one stack memory segment(for performing computations). VM translator coverts the VM language into assembly language.
